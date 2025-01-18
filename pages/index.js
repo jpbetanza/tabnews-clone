@@ -12,7 +12,8 @@ function Home(){
                 <p>Aquele que é paciente, amoroso e manso... </p>
                 <p>Tentando todos os dias converter os corações endurecidos,</p>
                 <p>Dos assassinos, adúlteros, ladrões, miseráveis, viciados em drogas, estupradores.</p>
-                <p>Dos mentirosos, soberbos, egocentricos, raivosos, dos que julgam os outros.</p>
+                <p>Dos que buscam incansávelmente riquezas materiais.</p>
+                <p>Dos mentirosos, soberbos, egocentricos, raivosos, invejosos.</p>
                 <p>Dos que se deixam levar pelos vícios sexuais, preguiça e gula.</p>
                 <p>Dos que desonram seus pais. Dos que falam mal dos outros pelas costas.</p>
                 <p>Dos que se esqueceram de Deus, se esqueceram da Vida, do que realmente importa.</p>
@@ -22,8 +23,8 @@ function Home(){
                 <p>Desses, Jesus é misericordioso todos os dias.</p>
                 <p>Todos os dias, Ele fala.</p>
                 <p>Todos os dias, Ele insiste.</p>
-                <p>Todos os dias, Ele suplica.</p>
-                <p>Que não importa o quanto busquem felicidades mundanas,</p>
+                <p>Todos os dias, Ele suplica para que entendam</p>
+                <p>Que não importa o quanto busquem felicidades do mundo,</p>
                 <p>O vazio dos corações dos homens é infinito.</p>
                 <p>Não pode ser preenchido, senão pelo infinito amor de Deus.</p>
                 <p>"Convertei-vos e crede no evangelho"</p>
@@ -33,7 +34,7 @@ function Home(){
                 <p>"Pai, perdoa-lhes, porque não sabem o que fazem"</p>
                 <p>Disse o Deus crucificado, esperando a última gota de sangue ser drenada de Seu corpo,</p>
                 <p>Enquanto espera ansiosamente de nós, ao menos uma gota de arrependimento,</p>
-                <p>Para que tenhamos, junto à Ele, a vida eterna no paraíso.</p>
+                <p>Para que sejamos dignos de estar junto à Ele no paraíso, durante toda a eternidade.</p>
             </div>
          </div>
         )
