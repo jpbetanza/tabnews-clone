@@ -9,8 +9,8 @@ async function query(queryObject) {
     password: process.env.POSTGRES_PASSWORD,
     ssl:
       process.env.POSTGRES_SSL === "true"
-        ? { rejectUnauthorized: false }
-        : false, // Configuração SSL
+        ? false
+        : { rejectUnauthorized: false }, // Configuração SSL
   });
   console.log("Credenciais do banco de dados:", {
     host: process.env.POSTGRES_HOST,
