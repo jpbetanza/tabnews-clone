@@ -2,4 +2,4 @@
 
 A clone of the social network created by Felipe Deschamps.
 
-Teste de Changelog Creator!
+Teste de Changelog Creator! 
